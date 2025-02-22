@@ -15,8 +15,10 @@ This C# program generates G-code instructions for a CNC laser machine to cut bas
 ## CNC Use
 CNC (Computer Numerical Control) machines are widely used in the industry for precision cutting of various materials, including metal, wood, acrylic, and plastic. These machines follow programmed G-code instructions to create intricate designs with high accuracy and repeatability. CNC laser cutters, in particular, use a focused laser beam to cut or engrave materials, offering clean edges and minimal material waste. They are commonly employed in manufacturing, prototyping, signage, and custom fabrication industries.
 
-![image](https://github.com/user-attachments/assets/319255b0-c939-40ea-bf71-90babbe071c4)
-*Dot cutting CNC machine used in the company where I work.*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/319255b0-c939-40ea-bf71-90babbe071c4" alt="CNC Machine Example" width="400px">
+  <p><em>Dot cutting CNC machine used in the company where I work.</em></p>
+</div>
 
 ## Example Output
 
@@ -36,6 +38,6 @@ M5 ; Turn off laser
 
 ## Resources & Links
 
-- [Introduction to CNC Laser Cutting](https://example.com/cnc_intro)
-- [G-code Reference](https://example.com/gcode_reference)
+- [Introduction to CNC](https://www.autodesk.com/mx/solutions/cnc-machining-software)
+- [Laser CNC](https://www.adhmt.com/es/que-es-una-maquina-de-corte-por-laser-cnc/?fbclid=iwzxh0bgnhzw0cmteaar0hpz-m200mztmxabacka9nugxfchjln0jkagwsjjqgh9jokvhviox65g0_aem_axgbo4fyatwhaqeqhgkomg)
 
